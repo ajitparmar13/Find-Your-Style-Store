@@ -1,0 +1,39 @@
+body{
+  background-color: red;
+  font-family: Times New Roman;
+}
+
+div{
+  background-color: black;
+  border-radius: 50px;
+  padding 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+video{
+  display: block;
+  margin: auto;
+}
+
+center{
+  margin: auto;
+  width: 60%;
+  padding: 10px:
+}
+
+table{
+  background-color: grey;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+table tr td{
+  padding: 5px;
+  padding-right: 35px;
+  text-align: left;
+}

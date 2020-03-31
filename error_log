@@ -1,0 +1,46 @@
+[29-Mar-2020 20:38:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ajit_parmar'@'localhost' to database 'style' in /home/k8nce266zwxb/public_html/signup_action.php on line 21
+[29-Mar-2020 20:53:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.1.77' (110) in /home/k8nce266zwxb/public_html/signup_action.php on line 21
+[29-Mar-2020 20:59:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.1.77' (110) in /home/k8nce266zwxb/public_html/signup_action.php on line 21
+[29-Mar-2020 22:13:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/k8nce266zwxb/public_html/signup_action.php on line 21
+[29-Mar-2020 22:13:56 UTC] PHP Notice:  Undefined variable: Password in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:13:56 UTC] PHP Notice:  Undefined variable: dropdown in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:13:56 UTC] PHP Notice:  Undefined variable: sql in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:13:56 UTC] PHP Warning:  mysqli::query(): Empty query in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:18:46 UTC] PHP Notice:  Undefined variable: Password in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:18:46 UTC] PHP Notice:  Undefined variable: dropdown in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:18:46 UTC] PHP Notice:  Undefined variable: sql in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:18:46 UTC] PHP Warning:  mysqli::query(): Empty query in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:24:47 UTC] PHP Notice:  Undefined variable: Password in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:24:47 UTC] PHP Notice:  Undefined variable: dropdown in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:24:47 UTC] PHP Notice:  Undefined variable: sql in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:24:47 UTC] PHP Warning:  mysqli::query(): Empty query in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:26:12 UTC] PHP Notice:  Undefined variable: Password in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:26:12 UTC] PHP Notice:  Undefined variable: dropdown in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:26:12 UTC] PHP Notice:  Undefined variable: sql in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:26:12 UTC] PHP Warning:  mysqli::query(): Empty query in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:26:15 UTC] PHP Notice:  Undefined variable: Password in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:26:15 UTC] PHP Notice:  Undefined variable: dropdown in /home/k8nce266zwxb/public_html/signup_action.php on line 25
+[29-Mar-2020 22:26:15 UTC] PHP Notice:  Undefined variable: sql in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[29-Mar-2020 22:26:15 UTC] PHP Warning:  mysqli::query(): Empty query in /home/k8nce266zwxb/public_html/signup_action.php on line 35
+[30-Mar-2020 23:15:35 UTC] PHP Notice:  Undefined index: username in /home/k8nce266zwxb/public_html/signup_action.php on line 4
+[30-Mar-2020 23:15:35 UTC] PHP Notice:  Undefined index: password in /home/k8nce266zwxb/public_html/signup_action.php on line 5
+[30-Mar-2020 23:15:35 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/signup_action.php on line 6
+[30-Mar-2020 23:15:40 UTC] PHP Notice:  Undefined index: username in /home/k8nce266zwxb/public_html/signup_action.php on line 4
+[30-Mar-2020 23:15:40 UTC] PHP Notice:  Undefined index: password in /home/k8nce266zwxb/public_html/signup_action.php on line 5
+[30-Mar-2020 23:15:40 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/signup_action.php on line 6
+[30-Mar-2020 23:16:56 UTC] PHP Notice:  Undefined index: username in /home/k8nce266zwxb/public_html/signup_action.php on line 4
+[30-Mar-2020 23:16:56 UTC] PHP Notice:  Undefined index: password in /home/k8nce266zwxb/public_html/signup_action.php on line 5
+[30-Mar-2020 23:16:56 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/signup_action.php on line 6
+[30-Mar-2020 23:48:38 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:48:48 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:52:01 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:52:51 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:52:58 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:54:04 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 28
+[30-Mar-2020 23:55:00 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 29
+[30-Mar-2020 23:56:05 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 29
+[30-Mar-2020 23:56:24 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 29
+[30-Mar-2020 23:57:57 UTC] PHP Warning:  mysqli_result::fetch_row() expects exactly 0 parameters, 1 given in /home/k8nce266zwxb/public_html/login_action.php on line 27
+[30-Mar-2020 23:58:27 UTC] PHP Notice:  Undefined index: style in /home/k8nce266zwxb/public_html/login_action.php on line 29
+[31-Mar-2020 00:16:12 UTC] PHP Notice:  Undefined variable: conn in /home/k8nce266zwxb/public_html/test.php on line 6
+[31-Mar-2020 00:16:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/k8nce266zwxb/public_html/test.php on line 6
